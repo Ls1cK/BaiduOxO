@@ -1,0 +1,101 @@
+.title {
+    text-align: center;
+    color: white;
+    background-color: lightskyblue;
+    width: 200px;
+    height: 920px;
+    padding-top: 60px;
+    float: left;
+}
+.block{
+    display: block;
+}
+.essInfo {
+    color: black;
+    float: left;
+    width: 1000px;
+    height: min-content;
+}
+
+.h_essInfo {
+    padding-left:15px;
+    height: min-content;
+}
+
+.content_essInfo {
+    padding-left:15px;
+    height: min-content;
+    word-spacing: 45px;
+}
+
+.contact {
+    color: black;
+    float: left;
+    width: 1000px;
+    height: min-content;
+}
+
+.h_contact {
+    padding-left:15px;
+    height: min-content;
+}
+
+.content_contact {
+    padding-left:15px;
+    height: min-content;
+    word-spacing: 45px;
+}
+
+.skills {
+    color: black;
+    float: left;
+    width: 800px;
+    height: min-content;
+}
+
+.h_skills {
+    padding-left:15px;
+    height: min-content;
+}
+
+.content_skills {
+    padding-left:15px;
+    height: min-content;
+    white-space: pre-line;
+}
+
+.education {
+    color: black;
+    float: left;
+    width: 800px;
+    height: min-content;
+}
+
+.h_education {
+    padding-left:15px ;
+    height: min-content;
+}
+
+.content_education {
+    padding-left:15px;
+    height: min-content;
+    white-space: pre-line;
+}
+
+.project {
+    color: black;
+    float: left;
+    width: 800px;
+    height: min-content;
+}
+
+.h_project {
+    padding-left:15px ;
+    height: min-content;
+}
+
+.content_project {
+    padding-left:15px;
+    height: min-content;
+    white-space: pre-line;
+}
